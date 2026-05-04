@@ -1,3 +1,3 @@
 function sayHello() {
-    document.getElementById('message').innerText = "Hello from JavaScript!";
+    document.getElementById('message').innerText = "Hello from JavaScript!, Verified by Manjunath";
   }
